@@ -1,0 +1,14 @@
+﻿  CD 75.11.c
+C:\Users\suras\Desktop\개발\C, C++\CD 75.11\CD 75.11\CD 75.11.c(14,9): warning C4477:  'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+C:\Users\suras\Desktop\개발\C, C++\CD 75.11\CD 75.11\CD 75.11.c(14,9): message :  서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\suras\Desktop\개발\C, C++\CD 75.11\CD 75.11\CD 75.11.c(14,9): message :  서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\suras\Desktop\개발\C, C++\CD 75.11\CD 75.11\CD 75.11.c(14,9): message :  서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\suras\Desktop\개발\C, C++\CD 75.11\CD 75.11\CD 75.11.c(15,9): warning C4477:  'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+C:\Users\suras\Desktop\개발\C, C++\CD 75.11\CD 75.11\CD 75.11.c(15,9): message :  서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\suras\Desktop\개발\C, C++\CD 75.11\CD 75.11\CD 75.11.c(15,9): message :  서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\suras\Desktop\개발\C, C++\CD 75.11\CD 75.11\CD 75.11.c(15,9): message :  서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\suras\Desktop\개발\C, C++\CD 75.11\CD 75.11\CD 75.11.c(16,9): warning C4477:  'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+C:\Users\suras\Desktop\개발\C, C++\CD 75.11\CD 75.11\CD 75.11.c(16,9): message :  서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\suras\Desktop\개발\C, C++\CD 75.11\CD 75.11\CD 75.11.c(16,9): message :  서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\suras\Desktop\개발\C, C++\CD 75.11\CD 75.11\CD 75.11.c(16,9): message :  서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  CD 75.11.vcxproj -> C:\Users\suras\Desktop\개발\C, C++\CD 75.11\x64\Debug\CD 75.11.exe

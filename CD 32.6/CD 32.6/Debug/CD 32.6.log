@@ -1,0 +1,4 @@
+﻿  32.6.c
+C:\Users\suras\Desktop\개발\C, C++\CD 32.6\CD 32.6\32.6.c(18,6): warning C4102:  'EXIT1': 참조되지 않은 레이블입니다.
+C:\Users\suras\Desktop\개발\C, C++\CD 32.6\CD 32.6\32.6.c(24,6): warning C4102:  'EXIT3': 참조되지 않은 레이블입니다.
+  CD 32.6.vcxproj -> C:\Users\suras\Desktop\개발\C, C++\CD 32.6\Debug\CD 32.6.exe

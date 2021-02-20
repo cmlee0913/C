@@ -1,0 +1,7 @@
+﻿  소스.c
+C:\Users\suras\Desktop\개발\C, C++\CD 63.9\CD 63.9\소스.c(9,13): warning C4047:  'return': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\suras\Desktop\개발\C, C++\CD 63.9\CD 63.9\소스.c(16,24): warning C4013:  'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\suras\Desktop\개발\C, C++\CD 63.9\CD 63.9\소스.c(21,61): warning C4047:  '=': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+C:\Users\suras\Desktop\개발\C, C++\CD 63.9\CD 63.9\소스.c(23,9): warning C4477:  'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\suras\Desktop\개발\C, C++\CD 63.9\CD 63.9\소스.c(16,1): warning C4047:  '초기화 중': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+  CD 63.9.vcxproj -> C:\Users\suras\Desktop\개발\C, C++\CD 63.9\Debug\CD 63.9.exe
